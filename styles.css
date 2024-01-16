@@ -1,0 +1,26 @@
+body {
+	background-color: powderblue;
+}
+
+h1{
+	color: gray;
+	font-family: calibri;
+}
+
+p {
+	color: black;
+	font-family: calibri;
+}
+
+nav {
+	float: top;
+}
+
+ul{
+	list-style-type: none;
+	display: flex;	
+}
+
+li{
+	margin-right: 10px;
+}
