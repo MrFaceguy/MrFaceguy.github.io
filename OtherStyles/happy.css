@@ -1,12 +1,9 @@
 body {
 	background-color: powderblue;
-	display: flex;
-	justify-content: center;
-    align-items: center;
-	height: 100vh;
+	
 }
 
-h1{
+h1 {
 	color: gray;
 	font-family: calibri;
 }
@@ -20,13 +17,20 @@ nav {
 	float: top;
 }
 
-ul{
+ul {
 	list-style-type: none;
 	display: flex;	
 }
 
-li{
+li {
 	margin-right: 10px;
+}
+
+div {
+	display: flex;
+	justify-content: center;
+    align-items: center;
+	height: 100vh;
 }
 
 .hidden {
