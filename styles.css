@@ -2,9 +2,14 @@ body {
 	background-color: powderblue;
 }
 
-h1{
+h1 {
 	color: gray;
 	font-family: calibri;
+}
+
+h2 {
+	color: blue;
+	background-color: orange;
 }
 
 p {
